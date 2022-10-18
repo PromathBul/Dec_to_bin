@@ -1,3 +1,7 @@
+import os
+
+os.system('cls')
+
 def Dec_to_bin (number):
     txt_bin = ''
     while number > 0:
